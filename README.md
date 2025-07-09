@@ -1,4 +1,4 @@
-# 🌟 Sarthak's README: My Machine Learning A-Z Journey 🚀
+# 🌟My Machine Learning A-Z Journey 🚀
 
 Hi, I'm **Sarthak Ingle**, and this repository is a personal showcase of my hands-on learning journey through the **Machine Learning A-Z™: AI, Python & R + ChatGPT Prize [2025]** course on **Udemy**. Over **43+ hours**, I worked on practical projects covering fundamental to advanced concepts in machine learning, data preprocessing, deep learning, and reinforcement learning.
 
